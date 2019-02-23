@@ -8,7 +8,7 @@ There you'll find a 3-part buildlog and information regarding supported hardware
 
 This repo contains most of the sketches on display in the youTube clip as well as the main python required to switch between them.
 
-Note: There are no pre-compiled binaries in this repo. You must compile them for your target platform or simply use them interactively with Processing.
+Note: There are no pre-compiled binaries in this repo. You must compile them for your target platform or simply use them interactively with Processing. Some of the sketches require additional Processing libraries like Minim, if you encounter errors, please check you have the required libraries installed. 
 
 
 
