@@ -3,7 +3,7 @@ A set of Processing sketches and some python for creating a standalone digital l
 
 https://youtu.be/kiJ81XEa2kA  <-- visuals of the final build and it's modes.
 
-For more information please visit https://blog.julianbutler.com/2018/12/my-digital-lavalamp-or-mki-epilepsy.html
+For more information please visit https://slstudio.nz/posts/my-digital-lavalamp-or-mki-epilepsy-part-1/
 There you'll find a 3-part buildlog and information regarding supported hardware and software platforms.
 
 This repo contains most of the sketches on display in the youTube clip as well as the main python required to switch between them.
